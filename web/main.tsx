@@ -93,7 +93,7 @@ function App() {
           <a href="#audit">Change history</a>
         </nav>
         <div className="aside-note">
-          demo
+          Portfolio demo
           <br />
           Synthetic features · no customer data
         </div>
